@@ -37,7 +37,9 @@
   }
 }*/
 div{
-  background-color: beige;
-  text-align: center;
-  padding: 10px;
+  background-color: lightgrey;
+  text-align: left;
+padding: 50px;
+  font-size: medium;
+  font-style: italic;
 }

@@ -9,17 +9,17 @@ const len =specification.length;
  );
 
 
- export default function New(){
+  function New(){
      
      if(len>3000)
      {
-         return("It is spacious -" + getDetails(specification));
+        ("It is spacious -" + getDetails(specification));
      }
  else
  {
-     return(" it is too small -" + getDetails(specification));
+     (" it is too small -" + getDetails(specification));
  }
 
  }
 
-
+export default New;

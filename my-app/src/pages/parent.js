@@ -5,7 +5,9 @@ class Fast extends Component{
     
     clicked = () => {
         this.props.fun();
+    
     }
+
 
     render(){
         return(

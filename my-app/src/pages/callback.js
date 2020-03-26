@@ -6,3 +6,4 @@ class Back extends Component{
         )
     }
 }
+export default Back;

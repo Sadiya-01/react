@@ -37,9 +37,19 @@
   }
 }*/
 div{
-  background-color: lightgrey;
+  background-color: lightgoldenrodyellow;
   text-align: left;
-padding: 50px;
+padding: 10px;
   font-size: medium;
   font-style: italic;
 }
+body{
+  background-color: lightskyblue;
+  
+}
+.list{
+background-color:rgb(176, 214, 176);
+}
+
+
+

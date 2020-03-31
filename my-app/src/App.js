@@ -1,9 +1,11 @@
 import React,{ Component } from "react";
 import './App.css';
+import Menu from './Component/menu'
+import About from './Component/about'
+import Contact from './Component/contact'
+//import Vote from './Component/vote'
 
-import Vote from './Component/vote'
-
-class App extends Component{
+/*class App extends Component{
     
     render(){
     
@@ -11,5 +13,16 @@ class App extends Component{
             <Vote/>
         )
     }
+}
+export default App;*/
+function App(){
+    return(
+        <div className="App">
+            <Menu/>
+            <About/>
+            <Contact/>
+        </div>
+        
+    )
 }
 export default App;

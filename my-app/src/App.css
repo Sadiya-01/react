@@ -36,6 +36,7 @@
     transform: rotate(360deg);
   }
 }*/
+*{margin: 0;padding: 0px;}
 div{
   background-color: lightgoldenrodyellow;
   text-align: left;
@@ -51,5 +52,16 @@ body{
 background-color:rgb(176, 214, 176);
 }
 
+.style {
+  background-color: lightgray;
+height: 100px;
+width: 100px;
 
+}
+.style ul {
+  height: 100px;
+  
+  align-items: center;
+  justify-content: center;
 
+}

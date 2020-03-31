@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import  Vote from './App.js'
 //import List from './App.js';//
 //import Control from './App'//
 

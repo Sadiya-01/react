@@ -1,0 +1,805 @@
+{
+    "API": [
+        {
+            "id": 1,
+            "name": "INTRODUCTION",
+            "type": [
+                {
+                    "method": "Authentication - Summary",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": "Gito provides a smart integrated platform that can host all aggregated business models (Retailer, Marketplace, Market Exchange"
+                    
+                },
+                
+                {
+                    "method": "Include By Query String",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "Allowed HTTP's Request",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "Description Of Usual Server Responses",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                    
+                }
+            ]
+        },
+         {
+            "id": 2,
+            "name": "HOME PAGE",
+            "type": [
+                {
+                    "method": "POST Register",
+                    "params": "",
+                    "url":"{{url}}/something",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST Social/Login",
+                    "params": "",
+                    "url":"{{url}}/something",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST Password/Login",
+                    "params": "",
+                    "url":"{{url}}/something",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST Password/Email",
+                    "params": "",
+                    "url":"{{url}}/something",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST Password/Email-otp",
+                    "params": "",
+                    "url":"{{url}}/something",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+                
+                
+            ]
+     
+        },
+        {
+            "id": 3,
+            "name": "USER",
+            "type": [
+                {
+                    "method": "GET user",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET verify the email address",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET redirect to tribyte",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "PUT User Update",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET Phone Number Exist",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET Address of User by ID",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET Single Address of User by ID",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST Login",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST password/reset-otp",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST password/reset",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST address",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST Update Address by ID",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+            
+                {
+                    "method": "POST password change after Login",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET home",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET home-product/{option}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET pages",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET site-details",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST option details",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST option-details",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST contact-us",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST subscribe",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET social media",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "USERPROFILE",
+            "type": [
+                {
+                    "method": "POST v1/save-user-session",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST save-user-activity",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET /flex/{section_name}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET/promcode",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET/savecart-listing",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "DELETE v1/savecart-delete/{savecart_id}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+            
+                {
+                    "method": "POST v1/savecart-save",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+            ]
+        },
+        
+        {
+            "id": 5,
+            "name": "WISHLIST SAVECART",
+            "type": [
+                {
+                    "method": "GET Wishlist Savecart list API",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST Wishlist Savecart list API",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET Wishlist Delete API",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+               
+            ]
+        },
+        {
+            "id": 6,
+            "name": "BRAND",
+            "type": [
+                {
+                    "method": "GET all brand list",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET list brand based on product",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET v1/brands",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET v1/brands/{sub}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "CATEGORY",
+            "type": [
+                {
+                    "method": "GET v1/categories",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET v1/categories/{sub}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+                
+            ]
+        },
+        {
+            "id": 7,
+            "name": "SUBCATEGORY",
+            "type": [
+                {
+                    "method": "GET v1/sub-categories",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET v1/categories/{slug}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+
+            ]
+        },
+        {
+            "id": 8,
+            "name": "PRODUCT",
+            "type": [
+                {
+                    "method": "GET list all products from site",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": ""
+                },
+                {
+                    "method": "GET product by ID",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET top products",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET list all product by Vendor",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET filter the product",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET product/vendor/{id}/offers",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET deals get list",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST create deal",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "Post deal submit",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "Post deal all submit",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET offers/product",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET home-product/{option}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET home product",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET product-model",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "v1/product-brand/{product_model}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "v1 comment",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "ATTRIBUTE",
+            "type": [
+                {
+                    "method": "GET attribute/{attribute_code}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET/menu-attribute",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+
+            ]
+        },
+        {
+            "id": 10,
+            "name": "SEARCH",
+            "type": [
+                {
+                    "method": "post/search",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+                
+            ]
+        },
+        {
+            "id": 11,
+            "name": "VENDOR",
+            "type": [
+                {
+                    "method": "GET Vendor",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET Vendor/{slug} ",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET Vendor cities",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET v1/find Vendor",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET v1/get Vendor",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "VARIENT",
+            "type": [
+                {
+                    "method": "GET v1/varients/{product_vendor_id}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET V1/varients/{variant_id} ",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST v1/variants",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+               
+            ]
+        },
+        {
+            "id": 13,
+            "name": "CART",
+            "type": [
+                {
+                    "method": "POST /cart ",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET shopping cart ",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST shopping cart",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+
+            ]
+        },
+        
+        {
+            "id": 14,
+            "name": "ORDER",
+            "type": [
+                {
+                    "method": "POST create new order",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET user order list",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET orders/{transaction_id}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+               
+            ]
+        },
+        {
+            "id": 14,
+            "name": "CREATE ORDER",
+            "type": [
+                {
+                    "method": "POST order-create",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+                
+            ]
+        },
+        {
+            "id": 16,
+            "name": "ADDRESS",
+            "type": [
+                {
+                    "method": "POST v1/address",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET v1/address/{id} ",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET v1/address",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST v1/address/{id}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET v1/address/delete/{id}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "ADDRESS",
+            "type": [
+                {
+                    "method": "POST v1/address",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET v1/address/{id} ",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET v1/address",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST v1/address/{id}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "GET v1/address/delete/{id}",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "LOGISTICS",
+            "type": [
+                {
+                    "method": "GET shipping-charges",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                },
+                {
+                    "method": "POST dynamic-shipping-charges ",
+                    "params": "",
+                    "url":"{{url}}/cart",
+                    "output": "{data:[]}",
+                    "Disc": " "
+                }
+               
+            ]
+        }
+    ]
+    
+
+}

@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  .dropdown{
+  
+    /* background-color: #333; */
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  
+  .dropdown1 {
+    font-size: 18px;
+    color:  #333!important;
+    text-decoration: none!important;
+  }
+  .dropdown1 :hover
+  {
+        color:goldenrod!important;
+  }
+  
+  .content
+  {
+    margin-top: -450px;
+    /* margin-left:800px; */
+     
+  }
+
+ 
+  .btn
+  {
+        color: #333!important;
+        font-size: 18px!important;
+        font-weight:600!important;
+  }
+  .btn:hover
+  {
+        color:goldenrod!important;
+  }
+  
+  
+  .dropdown1 .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 17px 16px;
+    background-color: inherit;
+    font: inherit;
+    margin: 0;
+  }
+  
+  /* .navbar1 a:hover, .dropdown1:hover .dropbtn {
+    background-color: red;
+  } */
+  
+  .dropdown1-content
+   {
+    display: none;
+    position: absolute;
+    /* background-color: #f9f9f9; */
+    width: 100%;
+    left: 0;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown1-content .header
+   {
+    background: red;
+    padding: 16px;
+    color: white;
+  }
+  
+  .dropdown1:hover .dropdown1-content {
+    display: block;
+  }
+  
+  /* Create three equal columns that floats next to each other */
+ 
